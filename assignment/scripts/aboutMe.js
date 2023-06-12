@@ -23,7 +23,7 @@ console.log( 'My name is:' , fullName , 'and I think:' , luckyNumber , 'is a win
 let adventurous = true;
 console.log( adventurous );
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
-let food = 'bbq' + 'seafood' + 'hot pot'
+let food = 'bbq ' + ' seafood ' + ' hot pot'
 console.log( food );
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 let pets = 2;
@@ -112,5 +112,6 @@ console.log(text);
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!",
   let explore = adventurous ? 'Adventures are great' : 'How about we stay home.'
     console.log(explore);
-    
+
+    // trying to practice commits
 
